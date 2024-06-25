@@ -1,0 +1,192 @@
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{}{Datta sai Moganti}{ \urlstyle{same} \\
+\href{mailto:dattasaimoganti@gmail.com}{dattasaimoganti@gmail.com} | +91-9059157025 | LinkedIn - \href{https://www.linkedin.com/in/datta-sai-moganti/}{Datta sai Moganti}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+\sectionsep
+\subsection{Sri Vasavi Engineering \\College}
+\descript{B.Tech IN COMPUTER SCIENCE}
+\location{Grad: May 2025 | CGPA: 9.12}
+\sectionsep
+\subsection{S.M.V.M Polytechnic \\College}
+\descript{Diploma in Mechanical Engineering}
+\location{Grad: May 2022 | Percentage: 92.55\%}
+\sectionsep
+\subsection{Sir C.V Raman Public School}
+\location{Grad: May 2019 | GPA: 10}
+
+\sectionsep
+\section{Links} 
+Github:// \href{https://github.com/dattu9133}{\bf dattu9133} \\
+LinkedIn:// \href{https://www.linkedin.com/in/datta-sai-moganti/}{\bf datta-sai-moganti} \\
+LeetCode:// \href{https://leetcode.com/u/dattasaimoganti/}{\bf dattasaimoganti} \\
+GFG:// \href{https://www.geeksforgeeks.org/user/dattasai75yx}{\bf dattasai75yx}
+
+
+\section{Coursework}
+\sectionsep
+\subsection{UNDERGRADUATE}
+\sectionsep
+
+\textbullet{} Data Structures \& Algorithms\\
+\textbullet{} Design and Analysis of Algorithms\\
+\textbullet{} Object Oriented Programming\\
+\textbullet{} Operating System\\
+\textbullet{} Database Management System\\
+\textbullet{} Computer Networks
+
+
+
+\section{Skills}
+\subsection{Programming}
+\textbf{Languages:\\}
+
+\textbullet{} Advanced: Java, JavaScript \\
+\textbullet{} Intermediate: C, C++, Python \\
+\sectionsep
+
+\textbf{Tools:\\}
+
+\textbullet{} Git \\
+\textbullet{} Windows
+\sectionsep
+
+\textbf{Framework \& Library:\\}
+
+\textbullet{} Django 
+\textbullet{} Bootstrap 
+\textbullet{} React JS \\
+\textbullet{} Express JS 
+\textbullet{} Node JS 
+\textbullet{} MongoDB \\
+\textbullet{} TensorFlow 
+\textbullet{} OpenCV\\
+\textbullet{} TensorFlowJS \textbullet{}Jest\\
+\sectionsep
+
+\textbf{Technologies:\\}
+
+\textbullet{} CSS \\
+\textbullet{} HTML \\
+\textbullet{} SQL
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section{Certifications }
+\sectionsep
+\begin{tightemize}
+
+\item Accomplished in Azure AZ-900 with 825 out of 1000 marks.  
+\item Certificate for completing Amazon Web Services (AWS) Cloud Virtual \\Internship certified by AICTE (2023) 
+\item Completion certificate for the Python and Data Structures course from \\University of Michigan (2023) 
+\item Certified  Oracle Cloud Infrastructure 2023 Architect Associate valid until September 2025.
+\item Certified  Oracle Machine Learning using Autonomous Database 2023 Associate valid until September 2025.
+\end{tightemize}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Achievements }
+\sectionsep
+\begin{tightemize}
+\item Obtained the position of Coordinator for the Web and App Development domain within the Google
+Developer Student Club,working with a dedicated team of 15 members on over 3+ projects (Present)
+\item Secured 1st Prize in Skill Quiz conducted by Sri Vasavi Engineering College under G20 summit, Jan Bhagidhari
+program in association with APSSDC (2023)
+\item Secured State Level 9th rank in AP ECET (2022)
+\item 1st rank in school in X class examination (2019)
+\item District Level 2nd Prize in 27th National Mathematics Talent Search Competition organised by Ramanujan Mathematics Academy \& Mathematics Library (2016)
+\end{tightemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects} 
+\runsubsection{Text to Image Converter App}
+\descript{| Hugging Face, React, Netlify}
+\location{Mar \textbf{2024 }}
+\begin{tightemize}
+    \item Developed a Text to Image Converter using Hugging Face’s Stable Diffusion API, converting words into art with over 90\% accuracy.
+    \item Implemented a responsive React frontend, enhancing user interaction and experience, leading to a 30\% increase in user engagement.
+    \item Deployed the application on Netlify, ensuring fast loading times (under 2 seconds) and reliable performance with 99.9\% uptime.
+     \item Hosted project: \href{https://text-to-image-ai-stable.netlify.app/}{\bf Text to Image Converter App}
+    \item Code repository: \href{https://github.com/dattu9133/text-to-image}{\bf GitHub Repo}
+\end{tightemize}
+
+
+
+
+
+
+\sectionsep
+
+\runsubsection{Sign Language Detection Web App}
+\descript{| TensorFlow, OpenCV, React, IBM Cloud}
+\location{May 2023}
+\begin{tightemize}
+    \item Built a sign language detection model using TensorFlow Object Detection API, OpenCV, LabelImg, and Protocol Buffers to bridge communication gap for 6o million deaf and dumb people in India.
+    \item Converted a TensorFlow model to TensorFlow.js, achieving real-time detection with a 25\% improvement in processing speed, and deployed the model on IBM Cloud as an API, supporting over 10,000 requests per day.
+    \item Developed a React frontend to interface with the TensorFlow.js model, enabling real-time sign language detection with around 90\% accuracy.
+    \item Code repository: \href{https://github.com/dattu9133/ReactComputerVisionTemplate}{\bf GitHub Repo}
+\end{tightemize}
+
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section{Publications }
+[1] Published  research paper on "SIGN LANGUAGE DETECTION" at the 6th International Conference on Information Systems and Management Science (ISMS 2023), hosted by OP Jindal University and the University of Malta.
+\end{minipage} 
+\end{document}  \documentclass[]{article}}
